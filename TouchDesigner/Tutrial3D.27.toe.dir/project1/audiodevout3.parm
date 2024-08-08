@@ -1,0 +1,9 @@
+?
+device 67108864 {0.0.0.00000000}.{229886b1-9566-4f10-8f83-b3f94483bb51}||VoiceMeeter_Aux_Input_(VB-Audio_VoiceMeeter_AUX_VAIO)||4
+outputs 67108864 ""
+volume 67108866 0.5
+clampoutput 67108864 off
+cookalways 67108864 off
+timeslice 67108864 on
+autoexportroot 201326609 "" parent()
+?

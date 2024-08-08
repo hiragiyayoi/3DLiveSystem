@@ -1,0 +1,15 @@
+?
+pageindex 67108864 4
+value0 67108864 on
+buttontype 67108864 toggledown
+w 67108864 50
+h 67108864 40
+resizecomp 201326609 "" me
+repocomp 201326609 "" me
+borderover 67108864 off
+enablecloning 67108864 off
+clone 67108881 "" op.TDTox.op('defaultCOMPs/button')
+enableexternaltox 67108864 off
+externaltox 67108912 "" "parent.sys.fileFolder + '/TDPackages/button/button.tox'"
+relpath 67108864 externaltox
+?

@@ -1,0 +1,16 @@
+?
+pageindex 67108864 2
+x 67109137 0 "(parent().par.zonel + [parent().par.value0.eval(), 0., parent().par.value0.eval()][parent().par.slidertype] * (parent().par.zoner-parent().par.zonel)) * parent().width - [0., me.width/2][me.width<5]"
+y 67109137 0 "(parent().par.zoneb + [0., parent().par.value0.eval(), parent().par.value1.eval()][parent().par.slidertype] * (parent().par.zonet-parent().par.zoneb)) * parent().height - [0., me.height/2][me.height<5]"
+w 67109137 4 "parent().width if parent().par.slidertype == 'sliderv' else  4"
+h 67109137 300 "parent().height if parent().par.slidertype == 'slideru' else 4"
+layer 67108864 2
+clickthrough 67108864 on
+resizecomp 201326609 "" me
+repocomp 201326609 "" me
+bgcolorr 67108913 0.6 ".2 * parent().par.colorr + .5"
+bgcolorg 67108913 0.6 ".2 * parent().par.colorg + .5"
+bgcolorb 67108913 0.6 ".2 * parent().par.colorb + .5"
+bgalpha 67108864 1
+borderover 67108864 off
+?

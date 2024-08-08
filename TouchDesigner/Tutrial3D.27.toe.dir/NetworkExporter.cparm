@@ -1,0 +1,11 @@
+?
+pages 1 Custom
+772804878 Watchtarget WatchTarget 1 1 0 0 1 1 1 2 0 / "" Custom 0
+-1374678767 Outdir OutDir 1 1 0 0 1 1 1 2 0 network_structure "" Custom 4
+772804867 Exportonpresaving ExportOnPreSaving 1 1 0 0 1 1 1 2 0 "" "" Custom 5
+772804867 Exportonpostsaving ExportOnPostSaving 1 1 0 0 1 1 1 2 1 "" "" Custom 6
+772804869 Export Export 1 1 0 0 1 1 1 2 0 "" "" Custom 7
+772804866 Maxdepth MaxDepth 1 1 0 1 1 1 10 2 1 "" "" Custom 2
+772804867 Limitdepth LimitDepth 1 1 0 0 1 1 1 2 0 "" "" Custom 1
+772804867 Ignoreinsideexternaltox IgnoreInsideExternalTox 1 1 0 0 1 1 1 2 1 "" "" Custom 3
+?

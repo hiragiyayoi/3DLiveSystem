@@ -1,0 +1,9 @@
+TOP:rgbkey
+tile 1175 -125 130 105
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	rectangle3
+}
+color 0.55 0.55 0.55 
+end

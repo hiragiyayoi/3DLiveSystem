@@ -1,0 +1,10 @@
+CHOP:null
+tile 3024 5347 130 90
+flags =  viewer 1 export on parlanguage 0
+inputs
+{
+0 	math8
+}
+color 0.55 0.55 0.55 
+view 9 -1 1 1.05 -1.5 1.5 -0.152859 0.945102 -0.5 0.5 5 2 10267 10 1 0
+end

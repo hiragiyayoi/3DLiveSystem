@@ -1,0 +1,8 @@
+?
+radx 67108881 1 mod.math.sin(mod.math.radians(parent().par.coneangle/2))
+rady 67108881 1 mod.math.sin(mod.math.radians(parent().par.coneangle/2))
+tx 67108864 0
+ty 67108864 0
+tz 67108881 0 -op('tube1').par.height
+arc 67108864 openarc
+?

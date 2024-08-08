@@ -1,0 +1,33 @@
+?
+pageindex 67108864 3
+opviewer 67109120 ./annotation
+encloseops 67109137 on "me.EncloseOPs if hasattr(me, 'EncloseOPs') else True"
+includeinorder 67108864 on
+order 201326609 0 "me.digits or 0"
+layerzone 67108881 belowgrid "0 if hasattr(me, 'EncloseOPs') and me.EncloseOPs else 1"
+ext0object 67109120 op.TDAnnotate.mod.AnnotateExt.AnnotateExt(me)
+ext0name 67109120 ""
+ext0promote 67109120 on
+parentshortcut 67109120 Annotate
+clone 67108881 "" "op.TDAnnotate.op('annotate', includeUtility=True)"
+Titletext 67108928 AudioOut
+Version 67109184 1.0
+Bodymaxwidth 67109056 1000
+Backcolorr 67108945 0.45 "me.color[0] # node color [r]"
+Backcolorg 67108945 0.45 me.color[1]
+Backcolorb 67108945 0.45 "me.color[2] "
+Mode 67108928 annotate
+Opviewer 67109056 ""
+Opviewerinteractive 67109056 off
+Opvieweroversize 67109056 natural
+Opviewersizew 67109056 800
+Opviewersizeh 67109056 800
+Opviewerscale 67109056 1
+Opviewerjustifyx 67109056 0
+Opviewerjustifyy 67109056 0
+Opviewerfillbodytitle 67109056 off
+Opviewerzoom 67109056 1
+Opvieweroffsetx 67109056 0
+Opvieweroffsety 67109056 0
+Opviewerfillalpha 67109056 1
+?

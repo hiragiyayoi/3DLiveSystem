@@ -1,0 +1,28 @@
+
+#Desk..
+# layout 
+desk -c * 
+desk -n pane1 *
+desk -h pane1 0.608854 -n pane3
+desk -v pane3 0.644302 -n pane2
+
+#pane1
+desk -p / pane1
+desk -t neteditor pane1
+desk -k 0 pane1
+neteditor -c 1 -e 0 -G 0.75 -o 0 -r 1 -P 0.8 -s 0 -w 0 -x 0 -t 0 -d 1 -g 0 -p pane1
+
+#pane3
+desk -p /project1 pane3
+desk -t geoviewer pane3
+desk -k 0 pane3
+neteditor -c 0 -e 1 -G 0.75 -o 0 -r 0 -P 0.8 -s 0 -w 0 -x 0 -t 1 -d 1 -g 0 -p pane3
+
+#pane2
+desk -p /project1 pane2
+desk -t topviewer pane2
+desk -k 0 pane2
+neteditor -c 0 -e 1 -G 0.75 -o 0 -r 0 -P 0.8 -s 0 -w 0 -x 0 -t 1 -d 1 -g 0 -p pane2
+
+browser off
+winplacement ontop=0 mode=auto posx=0 posy=0 sizex=1024 sizey=768 enable=1 perform.path=/perform perform.start=0

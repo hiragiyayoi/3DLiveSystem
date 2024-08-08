@@ -1,0 +1,8 @@
+?
+file 201326608 ﻿"D:/Music/music/【Ado】 唱 (1).wav" app.samplesFolder+'/Audio/JeremyCaulfield_www.dumb-unit.com.mp3'
+index 201326609 0 "me.time.frame / root.time.rate"
+timecodeop 201326609 "" tdu.Timecode()
+mono 67108864 on
+timeslice 67108864 on
+autoexportroot 201326609 "" parent()
+?

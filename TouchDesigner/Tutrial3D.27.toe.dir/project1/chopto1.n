@@ -1,0 +1,15 @@
+SOP:chopto
+tile 2699 5197 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	grid1
+}
+exports
+{
+null14
+}
+
+color 0.55 0.55 0.55 
+view 28 0.2 1 1 0 0 1 0 0 1 -21 -11752 0 1 0 0 0 0 1 1.86265e-09 0 0 -1.86265e-09 1 0 21 11752 -32.9014 1 16 1 1 1 195 4883 1 -1 1 1 11 0 0 0 3 0 1
+end

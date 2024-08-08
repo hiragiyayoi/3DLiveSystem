@@ -1,0 +1,11 @@
+CHOP:math
+tile 2824 5472 130 90
+flags =  viewer 1 export on parlanguage 0
+inputs
+{
+0 	audio_blance2
+1 	audio_blance1
+}
+color 0.55 0.55 0.55 
+view 11 -1 1 1.04134 -1.5 1.5 507.856 508.955 -0.460398 0.539604 -0.420439 0.579561 5 2 10267 10 2 0
+end

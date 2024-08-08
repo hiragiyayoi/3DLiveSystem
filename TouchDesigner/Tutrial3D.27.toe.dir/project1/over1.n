@@ -1,0 +1,10 @@
+TOP:over
+tile 1175 150 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	over2
+1 	ramp1
+}
+color 0.55 0.55 0.55 
+end

@@ -1,0 +1,5 @@
+?
+const0value 67108864 1
+rate 201326609 60 me.time.rate
+autoexportroot 201326609 "" parent()
+?

@@ -1,0 +1,15 @@
+?
+pageindex 67108864 4
+value1 67108864 0.5
+w 67108864 100
+h 67108864 20
+resizecomp 201326609 "" me
+repocomp 201326609 "" me
+top 67108864 ./back
+crop 67108864 on
+enablecloning 67108864 off
+clone 67108881 "" op.TDTox.op('defaultCOMPs/slider')
+enableexternaltox 67108864 off
+externaltox 67108912 "" "parent.sys.fileFolder + '/TDPackages/slider/slider.tox'"
+relpath 67108864 externaltox
+?

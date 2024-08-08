@@ -1,0 +1,3 @@
+?
+clone 67108881 "" "op('../midi/device')[me.digits, 'definition'] + '/mapmaster1'"
+?

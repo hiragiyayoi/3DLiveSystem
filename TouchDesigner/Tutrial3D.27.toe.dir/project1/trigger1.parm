@@ -1,0 +1,8 @@
+?
+threshup 67108864 0.45
+attack 67108864 0.25
+sustain 67108864 0.25
+rate 201326608 60 me.time.rate
+timeslice 67108864 on
+autoexportroot 201326609 "" parent()
+?

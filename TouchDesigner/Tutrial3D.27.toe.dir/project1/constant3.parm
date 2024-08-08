@@ -1,0 +1,6 @@
+?
+const0name 67108864 ch1
+const0value 67108864 0.9
+rate 201326609 60 me.time.rate
+autoexportroot 201326609 "" parent()
+?

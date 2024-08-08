@@ -1,0 +1,10 @@
+?
+file 201326608 ﻿"D:/move/素材/Crazy Shuffle - Yooh-(480p30).mp4" app.samplesFolder+'/Map/Banana.tif'
+reload 67108866 off
+play 67108866 off
+speed 67108866 1
+index 201326609 0 me.time.frame
+timecodeop 201326609 "" tdu.Timecode()
+frametimeout 67108864 1000
+opentimeout 67108864 1000
+?

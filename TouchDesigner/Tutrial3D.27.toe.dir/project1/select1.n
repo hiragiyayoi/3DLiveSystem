@@ -1,0 +1,9 @@
+CHOP:select
+tile -198 5591 80 76
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	midiinmap1
+}
+color 0.55 0.55 0.55 
+end

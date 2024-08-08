@@ -1,0 +1,14 @@
+TOP:math
+tile 1900 2050 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	moviefilein1
+}
+exports
+{
+null12
+}
+
+color 0.55 0.55 0.55 
+end

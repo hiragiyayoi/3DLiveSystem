@@ -1,0 +1,11 @@
+?
+pageindex 67108864 1
+fromop 201326609 "" parent()
+op 67108864 ..
+pars 67108864 value0
+onpulse 67108864 off
+file 67108912 "" f'scripts/{me.name}.py'
+defaultreadencoding 67108864 cp1252
+loadonstart 67108864 on
+language 67108864 python
+?

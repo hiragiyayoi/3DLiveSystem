@@ -1,0 +1,7 @@
+?
+rate 201326608 60 me.time.rate
+right 67108864 slope
+exportmethod 67108864 datname
+autoexportroot 201326609 "" parent()
+exporttable 67108864 midiinmap1_export
+?

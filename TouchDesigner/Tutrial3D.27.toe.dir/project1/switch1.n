@@ -1,0 +1,16 @@
+MAT:switch
+tile 75 -75 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	phong1
+1 	phong2
+}
+exports
+{
+null2
+}
+
+color 0.55 0.55 0.55 
+view 28 0.2 1 1 0 0 1 0 0 1 -0.0725112 -0.0312742 0.0587995 1 0 0 0 0 1 0 0 0 0 1 0 0.0725112 0.0312742 -4.74999 1 16 1 1 1 192 4883 1 -1 1 1 11 0 0 0 3 0 1
+end

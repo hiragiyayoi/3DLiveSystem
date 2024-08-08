@@ -1,0 +1,13 @@
+1
+0
+{
+   rate = 60
+   start = 489
+   tracklength = 1
+   tracks = 1
+   {
+      name = chan1
+      data_rle = 1.19685 
+   }
+
+}

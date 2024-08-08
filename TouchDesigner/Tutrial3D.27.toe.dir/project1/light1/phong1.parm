@@ -1,0 +1,13 @@
+?
+diffr 67108864 0
+diffg 67108864 0
+diffb 67108864 0
+specr 67108864 0
+specg 67108864 0
+specb 67108864 0
+emitr 67108881 0 parent().par.cr
+emitg 67108881 0 parent().par.cg
+emitb 67108881 0 parent().par.cb
+shininess 67108864 88
+skelrootpath 201326609 "" parent()
+?

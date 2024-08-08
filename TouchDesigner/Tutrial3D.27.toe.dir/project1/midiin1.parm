@@ -1,0 +1,6 @@
+?
+file 201326609 "" app.samplesFolder+'/MIDI/default.midi'
+rate 201326609 60 me.time.rate
+timeslice 67108864 on
+autoexportroot 201326609 "" parent()
+?

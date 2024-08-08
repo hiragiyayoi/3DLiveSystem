@@ -1,0 +1,13 @@
+TOP:moviefilein
+tile 1675 2050 130 72
+flags =  viewer 1 parlanguage 0
+exports
+{
+"null11
+null5
+null16"
+}
+
+color 0.55 0.55 0.55 
+view 3 0 0.0194175 1 4 0 1 0 0
+end

@@ -1,0 +1,9 @@
+?
+file 201326608 ﻿"D:/move/素材/Yooh - Butterfly Twist-(1080p60).mp4" app.samplesFolder+'/Map/Banana.tif'
+reload 67108866 off
+play 67108866 off
+speed 67108866 1
+index 201326609 0 me.time.frame
+timecodeop 201326609 "" tdu.Timecode()
+opentimeout 67108864 1000
+?

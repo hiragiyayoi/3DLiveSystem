@@ -1,0 +1,7 @@
+?
+wavetype 67108864 ramp
+frequency 67108864 0.25
+rate 201326609 60 me.time.rate
+timeslice 67108864 on
+autoexportroot 201326609 "" parent()
+?

@@ -1,0 +1,9 @@
+COMP:button
+tile -317 -847 160 134
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	container1
+}
+color 0.55 0.55 0.55 
+end

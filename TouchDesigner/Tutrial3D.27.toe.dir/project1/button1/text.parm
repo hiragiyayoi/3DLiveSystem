@@ -1,0 +1,32 @@
+?
+pageindex 67108864 4
+text 67108881 "" parent().par.label
+type 67108864 multiline
+legacyfontselection 67108864 on
+scaletofit 67108864 onlyshrink
+fontsize 67108864 10
+fontcolorr 67108913 1 "[c/.5 for c in [.1, .3]][parent().par.value0] * parent().par.colorr + .5"
+fontcolorg 67108913 1 "[c/.5 for c in [.1, .3]][parent().par.value0] * parent().par.colorg + .5"
+fontcolorb 67108913 1 "[c/.5 for c in [.1, .3]][parent().par.value0] * parent().par.colorb + .5"
+textpaddingl 67108864 3
+textpaddingr 67108864 3
+textpaddingb 67108864 3
+textpaddingt 67108864 3
+hmode 67108864 fill
+vmode 67108864 fill
+clickthrough 67108864 on
+resizecomp 201326609 "" me
+repocomp 201326609 "" me
+bgcolorr 67108913 0 "[c/.5 for c in [.2, .4, .15, .35]][parent().par.value0 + 2*(r:=parent().panel.rollover)] * parent().par.colorr + r * 0.1"
+bgcolorg 67108913 0 "[c/.5 for c in [.2, .4, .15, .35]][parent().par.value0 + 2*(r:=parent().panel.rollover)] * parent().par.colorg + r * 0.1"
+bgcolorb 67108913 0 "[c/.5 for c in [.2, .4, .15, .35]][parent().par.value0 + 2*(r:=parent().panel.rollover)] * parent().par.colorb + r * 0.1"
+bgalpha 67108864 1
+borderar 67108913 1 "[c/.5 for c in [.23, .4, .3, .6]][parent().par.value0 + 2*parent().panel.rollover] * parent().par.colorr + .2"
+borderag 67108913 1 "[c/.5 for c in [.23, .4, .3, .6]][parent().par.value0 + 2*parent().panel.rollover] * parent().par.colorg + .2"
+borderab 67108913 1 "[c/.5 for c in [.23, .4, .3, .6]][parent().par.value0 + 2*parent().panel.rollover] * parent().par.colorb + .2"
+leftborder 67108864 bordera
+rightborder 67108864 bordera
+bottomborder 67108864 bordera
+topborder 67108864 bordera
+borderover 67108864 off
+?

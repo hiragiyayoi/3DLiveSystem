@@ -1,0 +1,7 @@
+?
+parameters 67108881 value0 "'value0 value1' if parent().par.slidertype == 'slideruv' else 'value0'"
+renameto 67108864 "v1 v2"
+custom 67108864 off
+builtin 67108864 on
+autoexportroot 201326609 "" parent()
+?

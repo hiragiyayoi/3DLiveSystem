@@ -1,0 +1,12 @@
+?
+pageindex 67108864 1
+fromop 201326609 "" parent()
+panels 201326609 "" parent()
+panelvalue 67108864 state
+offtoon 67108864 off
+valuechange 67108864 on
+file 67108912 "" f'scripts/{me.name}.py'
+defaultreadencoding 67108864 cp1252
+loadonstart 67108864 on
+language 67108864 python
+?

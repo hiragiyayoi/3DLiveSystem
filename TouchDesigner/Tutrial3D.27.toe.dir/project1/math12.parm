@@ -1,0 +1,6 @@
+?
+preop 67108864 negate
+postoff 67108864 1
+autoexportroot 201326609 "" parent()
+exporttable 67108864 math12_export
+?

@@ -1,0 +1,7 @@
+?
+ncy 67108864 2
+rx 67108864 90
+ry 67108864 0
+rz 67108864 0
+copyg 201326609 "" "'copyGroup' + str(me.copyIndex)"
+?

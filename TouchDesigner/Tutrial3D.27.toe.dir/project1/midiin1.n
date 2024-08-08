@@ -1,0 +1,5 @@
+CHOP:midiin
+tile -525 2350 208 1581
+flags =  viewer 1 parlanguage 0
+color 0.55 0.55 0.55 
+end

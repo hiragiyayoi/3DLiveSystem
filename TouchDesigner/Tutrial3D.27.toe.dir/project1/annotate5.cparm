@@ -1,0 +1,30 @@
+?
+pages 4 Text Settings "OP Viewer" About
+772935938 Bodyfontsize "Body Font Size" 1 3 0 8 1 1 100 2 10 "" "" Text 4 "me.par.Mode in ['annotate', 'comment']"
+772935951 Titlealign "Title Align" 1 1 0 0 1 1 10 2 0 left "" Text 4097 3 left Left center Center right Right 2 "me.par.Mode in ['annotate', 'networkbox']"
+-1374285564 Bodytext "Body Text" 1 1 0 0 1 1 1 2 0 "" "" Text 3 "me.par.Mode in ['annotate', 'comment']" 1 "stored as expression so newlines can be retained"
+-1374547708 Titletext "Title Text" 1 1 0 0 1 1 1 2 0 Annotate "" Text 0 "me.par.Mode in ['annotate', 'networkbox']"
+772804869 Help Help 1 1 0 0 1 1 1 2 0 "" "" About 1
+-1374678780 Version Version 1 1 0 0 1 1 1 2 0 1.0 "" About 0
+773198083 Bodylimitwidth "Limit Body Text Width" 1 1 0 0 1 1 1 2 0 "" "" Text 5 "me.par.Mode in ['annotate', 'comment']" 1 "text can be made to occupy only left side of body"
+773198082 Bodymaxwidth "Max Body Text Width" 1 3 0 100 1 1 2000 2 1000 "" "" Text 6 "me.par.Bodylimitwidth.eval() and me.par.Mode in ['annotate', 'comment']" 1 "width limit that will cause wraparound or cut-off"
+773067009 Opacity "Annotate Opacity" 1 3 0 0 3 1 1 2 1 "" "" Settings 5 1 "opacity of entire comment"
+-1374674175 Backcolor "Back Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 2 1 "" "" 2 0 "" "" 2 0 "" "" Settings 3
+773067009 Backcoloralpha "Back Color Alpha" 1 3 0 0 3 1 1 2 1 "" "" Settings 4 1 "background color opacity"
+773198082 Titleheight "Title Height" 1 3 0 5 1 1 100 2 30 "" "" Text 1 "me.par.Mode in ['annotate', 'networkbox']" 1 "title font height auto-adjusts"
+-1374416637 Smartquote "Smart Quote" 1 1 0 0 1 1 1 2 0 "" "" Settings 1 1 "alternate display of quotes. search SmartyPants"
+772935939 Bodywordwrap "Body Word Wrap" 1 1 0 0 1 1 1 2 1 "" "" Settings 2 "me.par.Mode in ['annotate', 'comment']"
+772804879 Mode Mode 1 1 0 0 1 1 1 2 0 "" "" Settings 4097 3 comment Comment networkbox "Network Box" annotate Annotate 0
+772804867 Opviewerdisplay "Viewer Display" 1 1 0 0 1 1 1 2 0 "" "" "OP Viewer" 0
+772935950 Opviewer OP 1 1 0 0 1 1 1 2 0 "" "" "OP Viewer" 1 me.par.Opviewerdisplay
+772935939 Opviewerinteractive "OP Viewer Interactive" 1 1 0 0 1 1 1 2 0 "" "" "OP Viewer" 2 me.par.Opviewerdisplay
+-1374547697 Opvieweroversize "Size/Aspect Override" 1 1 0 0 1 1 1 2 0 False "" "OP Viewer" 4097 3 natural Natural specify Specify autofit Auto-Fit 3 me.par.Opviewerdisplay
+772952577 Opviewersize Size/Aspect 1 3 0 1 1 1 1000 3 0 1 1 1 1000 2 800 "" "" 2 800 "" "" "OP Viewer" 4 "me.par.Opvieweroversize!='natural' and me.par.Opviewerdisplay"
+-1374547711 Opviewerscale Scale 1 1 0 0 1 1 2 2 1 "" "" "OP Viewer" 5 me.par.Opviewerdisplay
+772935937 Opviewerjustifyx "Justify X" 1 1 0 -1 1 1 1 2 0 "" "" "OP Viewer" 6 me.par.Opviewerdisplay
+772935937 Opviewerjustifyy "Justify Y" 1 1 0 -1 1 1 1 2 0 "" "" "OP Viewer" 7 me.par.Opviewerdisplay
+772935939 Opviewerfillbodytitle "Cover Body and Title" 1 1 0 0 1 1 1 2 0 "" "" "OP Viewer" 8 me.par.Opviewerdisplay
+-1374547711 Opviewerzoom "OP Viewer Zoom" 1 3 0.001 1 1 1 5 2 1 "" "" "OP Viewer" 9 me.par.Opviewerdisplay
+772944385 Opvieweroffset "OP Viewer Offset" 1 1 0 0 1 1 1 1 0 0 1 1 1 2 0 "" "" 2 0 "" "" "OP Viewer" 10 me.par.Opviewerdisplay
+-1374547711 Opviewerfillalpha "Fill Alpha" 1 3 0 0 3 1 1 2 1 "" "" "OP Viewer" 11 me.par.Opviewerdisplay
+?

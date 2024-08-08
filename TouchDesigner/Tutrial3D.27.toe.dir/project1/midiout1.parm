@@ -1,0 +1,6 @@
+?
+prefix 67108864 ch1
+timecodeop 201326609 "" me.time.timecode
+timeslice 67108864 on
+autoexportroot 201326609 "" parent()
+?

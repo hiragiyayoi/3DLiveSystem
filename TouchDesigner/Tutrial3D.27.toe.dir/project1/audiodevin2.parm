@@ -1,0 +1,8 @@
+?
+device 67108864 {0.0.1.00000000}.{8870b147-6c38-462e-a0ab-3240e76f99bf}||VoiceMeeter_Output_(VB-Audio_VoiceMeeter_VAIO)||5
+errormissing 67108864 on
+format 67108864 stereo
+bufferlength 67108864 0.1
+timeslice 67108864 on
+autoexportroot 201326609 "" parent()
+?

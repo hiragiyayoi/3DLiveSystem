@@ -1,0 +1,7 @@
+COMP:base
+v 409.472 288.467 0.438416
+comment "comment exporting test"
+tile -225 325 160 130
+flags =  picked on current on viewer 1 parlanguage 0
+color 0.55 0.55 0.55 
+end

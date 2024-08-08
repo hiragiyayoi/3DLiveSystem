@@ -1,0 +1,33 @@
+?
+pageindex 67108864 4
+text 67108881 "" parent().par.label
+type 67108864 multiline
+legacyfontselection 67108864 on
+scaletofit 67108864 onlyshrink
+fontsize 67108864 10
+fontcolorr 67108913 0.6 ".2 * parent().par.colorr + .5"
+fontcolorg 67108913 0.6 ".2 * parent().par.colorg + .5"
+fontcolorb 67108913 0.6 ".2 * parent().par.colorb + .5"
+textpaddingl 67108896 4
+textpaddingr 67108896 4
+textpaddingb 67108896 3
+textpaddingt 67108896 3
+alignx 67108864 left
+hmode 67108864 fill
+vmode 67108864 fill
+clickthrough 67108864 on
+resizecomp 201326609 "" me
+repocomp 201326609 "" me
+bgcolorr 67108913 0.2 "0.4 * parent().par.colorr"
+bgcolorg 67108913 0.2 "0.4 * parent().par.colorg"
+bgcolorb 67108913 0.2 "0.4 * parent().par.colorb"
+bgalpha 67108864 1
+borderar 67108913 0.43 "[c/.5 for c in [.23, .4]][parent().panel.rollover] * parent().par.colorr + 0.2"
+borderag 67108913 0.43 "[c/.5 for c in [.23, .4]][parent().panel.rollover] * parent().par.colorg + 0.2"
+borderab 67108913 0.43 "[c/.5 for c in [.23, .4]][parent().panel.rollover] * parent().par.colorb + 0.2"
+leftborder 67108864 bordera
+rightborder 67108864 bordera
+bottomborder 67108864 bordera
+topborder 67108864 bordera
+borderover 67108864 off
+?
