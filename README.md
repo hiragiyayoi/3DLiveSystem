@@ -14,10 +14,10 @@
 最終目標は、PAがワンオペでも運用できるYouTubeでの3Dライブ環境を完成させることです。（2～3時間連続で配信しても耐えうる環境）  
 クオリティとしては、大手のVTuber事務所が行っている記念ライブ配信ぐらいのレベルを目指します。
 ### 参考例
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uPKOVZp_hbE?si=SG0Z_qwaC91zChLR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![image](https://i.ytimg.com/vi/uPKOVZp_hbE/maxresdefault.jpg)](https://www.youtube.com/embed/uPKOVZp_hbE?si=SG0Z_qwaC91zChLR)
 
-実写合成やりたい↓ リアルタイムでできたら最高だよね
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a51VH9BYzZA?si=EUKMiTPoFyQuT5Wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+実写合成やりたい↓ リアルタイムでできたら最高だよね  
+[![Title](https://i.ytimg.com/vi/a51VH9BYzZA/maxresdefault.jpg)](https://www.youtube.com/embed/a51VH9BYzZA?si=EUKMiTPoFyQuT5Wk)
 
 といっても流石に**複数人を同時にトラッキング**させたり、**縄跳び**させたりするのはハードルが高いので、初めは以下の演目のみ**リアルタイムトラッキング**させます。
 - 歌唱
